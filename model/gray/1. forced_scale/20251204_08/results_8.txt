@@ -1,0 +1,5 @@
+=== 성능 평가 결과 (Epoch 8) ===
+Accuracy : 0.8498
+Precision: 0.8920
+Recall   : 0.8541
+F1-score : 0.8726

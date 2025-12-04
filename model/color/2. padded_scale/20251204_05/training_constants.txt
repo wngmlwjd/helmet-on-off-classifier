@@ -1,0 +1,13 @@
+학습 관련 상수 및 하이퍼파라미터
+==============================
+TRAIN_IMAGE_DIR: ./dataset/preprocessed/color/train/3. aspect_aware_crop/images
+TRAIN_LABEL_DIR: ./dataset/preprocessed/color/train/3. aspect_aware_crop/labels
+TRAIN_MODEL_SAVE_DIR: ./model/color/2. padded_scale/20251204_05
+IMG_SIZE: (107, 128)
+BATCH_SIZE: 32
+EPOCHS: 10
+HELMET_CLASS_ID: 1
+SEED: 42
+SELECTED_COLOR: color
+SELECTED_STRATEGY: 2
+Callbacks: ModelCheckpoint

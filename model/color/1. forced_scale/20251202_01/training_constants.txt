@@ -1,0 +1,10 @@
+학습 관련 상수
+====================
+TRAIN_IMAGE_DIR: ./dataset/preprocessed/color/train/1. forced_scale/images
+TRAIN_LABEL_DIR: ./dataset/preprocessed/color/train/1. forced_scale/labels
+TRAIN_MODEL_SAVE_DIR: ./model/color/1. forced_scale/20251202_01
+IMG_SIZE: (107, 128)
+BATCH_SIZE: 32
+EPOCHS: 100
+HELMET_CLASS_ID: 1
+SEED: 42

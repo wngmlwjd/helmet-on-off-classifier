@@ -1,0 +1,5 @@
+=== 성능 평가 결과 (Epoch 7) ===
+Accuracy : 0.7236
+Precision: 0.6939
+Recall   : 0.9682
+F1-score : 0.8084

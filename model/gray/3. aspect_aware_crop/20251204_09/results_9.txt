@@ -1,0 +1,5 @@
+=== 성능 평가 결과 (Epoch 9) ===
+Accuracy : 0.8914
+Precision: 0.9120
+Recall   : 0.9072
+F1-score : 0.9096

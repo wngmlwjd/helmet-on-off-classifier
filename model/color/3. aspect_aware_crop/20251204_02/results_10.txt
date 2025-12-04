@@ -1,0 +1,5 @@
+=== 성능 평가 결과 (Epoch 10) ===
+Accuracy : 0.8898
+Precision: 0.8775
+Recall   : 0.9496
+F1-score : 0.9121

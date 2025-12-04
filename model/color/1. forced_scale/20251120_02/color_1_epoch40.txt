@@ -1,0 +1,5 @@
+=== 성능 평가 결과 ===
+Accuracy : 0.8224
+Precision: 0.8443
+Recall   : 0.9633
+F1-score : 0.8999
